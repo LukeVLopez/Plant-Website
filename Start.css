@@ -1,0 +1,31 @@
+
+header {
+    background-color: rgb(185, 126, 17);
+    height: 80px;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid #095c09
+}
+body {
+    background-color: rgb(143, 187, 107);
+}
+#pic-container {
+    position: fixed;
+    right: 0;
+    top: 80px;
+    padding: 0px;
+    border: 0px solid;
+    width: 20%;
+  }
+  #pic1 {
+    border: 3px solid;
+    padding: 0px;
+  }
+  #flexbox-label {
+    color: #095c09;
+    background-color: rgb(185, 126, 17);
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: #095c09;
+  }
